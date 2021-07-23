@@ -54,6 +54,10 @@ module.exports = {
           children: [
             '',
             'using-vue',
+            '0x2_Crypto',
+            '0x3_Misc',
+            '0x4_Reverse',
+            '0x5_PWN'
           ]
         }
       ],
